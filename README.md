@@ -1,1 +1,1 @@
-# OpenRouter-Stock-Interface
+# Stock-Gemini-Chat
